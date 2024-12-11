@@ -2,7 +2,7 @@
 
 **Software Engineer in the Making** (Epitech International - 2028 Promotion) 🇫🇷
 
-Freelancing full-stack web developer with a passion for building innovative solutions. Connect with me on:
+Freelancing full-stack web developer with a passion for building innovative solutions.
 
 ## Stay in Touch: ##
 * [LinkedIn](https://www.linkedin.com/in/damien-collet-lamoureux)
